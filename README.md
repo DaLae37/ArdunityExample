@@ -13,6 +13,6 @@ Future Plans
 * Example7 (Piezo Buzzer) (Not Sure)
 ---------------------------------
 Result
-Github URL : To Be Determined
-Video URL : To Be Determined
-Document URL : To Be Determined
+Github URL : https://github.com/DaLae37/MintAndChoco_Ardunity (Remaking Game to Ardunity)  
+Video URL : Canceled  
+Document URL : Canceled  
